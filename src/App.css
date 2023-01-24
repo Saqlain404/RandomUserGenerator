@@ -1,0 +1,17 @@
+.App{
+  min-height: 100vh;
+}
+.Mycard{
+  margin-top: 125px;
+}
+img{
+  margin-top: -80px;
+}
+button{
+  color: brown;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+  border-radius: 10px;
+
+}
